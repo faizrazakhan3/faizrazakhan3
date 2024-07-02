@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://wegotthiscovered.com/wp-content/uploads/2022/12/Ultra-Instinct-Goku-1.jpg
-</p>
 - 👋 Hi, I’m Faiz Raza Khan
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Java in Dsa
